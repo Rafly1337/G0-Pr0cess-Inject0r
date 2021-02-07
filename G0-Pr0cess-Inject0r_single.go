@@ -1,5 +1,6 @@
 // Coded by Mulvun, use for educational purposes only;)
 package main
+// Author by RaflyGhost
 
 import (
     "syscall"
